@@ -124,9 +124,9 @@
         <fluido-skin.version>1.9</fluido-skin.version>
 
         <!-- Sonar -->
-        <sonar.projectKey>apache_struts</sonar.projectKey>
+        <sonar.projectKey>daovan1987_testsonar</sonar.projectKey>
         <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
-        <sonar.organization>apache</sonar.organization>
+        <sonar.organization>daovan1987</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.exclusions>apps/**</sonar.exclusions>
     </properties>

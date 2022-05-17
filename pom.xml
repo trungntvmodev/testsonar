@@ -1228,3 +1228,7 @@
     </dependencyManagement>
 
 </project>
+<properties>
+  <sonar.organization>trungntvmodev</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
